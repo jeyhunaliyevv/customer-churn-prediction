@@ -50,4 +50,4 @@ Install dependencies from `requirements.txt` and run `customer_churn_prediction.
 - Future work: threshold tuning on validation folds, calibration, and out-of-time evaluation where possible
 
 ## Privacy and provenance
-This repository uses an independently sourced public sample dataset. It contains no private user-provided, client, or employer data.
+This repository uses an independently sourced public sample dataset. It contains no private user-provided, client, or employer 
